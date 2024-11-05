@@ -14,9 +14,9 @@
             Client client = new Client
             {
                 Id = 1,
-                Name = "Никита",
-                Phone = "89228901201",
-                Email = "nikitaproutub@gmail.com"
+                Name = "Саша",
+                Phone = "89228912013",
+                Email = "nikitaprotub@gmail.com"
             };
 
             
