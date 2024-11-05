@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Program
+    internal class Program //comment for commit
     {
         static void Main()
         {
